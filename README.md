@@ -1,5 +1,49 @@
 # 💫 About Me:
-📚 I am currently learning ... Advanced applications of Generative AI and deepening my expertise in React.js and Data Analysis.<br>🚀 I'm looking to collaborate on my project to improve my project..<br>💬 Ask me about ...<br>Frontend development (HTML, CSS, Javascript, React)<br>C/C++ programming, or my project building a GATE Test Web platform for student exam preparation.<br>⚡ Fun Fact ... I am an active member of the Ekta Mandal Narayanpur group and enjoy collaborating with others to grow professionally.
+# Hi there, I'm Sachin Katkar (HelpBoy) 👋
+
+### 👨‍💻 Fullstack Developer | Data Analyst Intern @ Bluestock
+
+I am a passionate developer and data enthusiast currently deepening my expertise in **React.js** and **Advanced Generative AI**. I thrive at the intersection of clean frontend code and insightful data analysis.
+
+---
+
+### 🏢 Current Professional Journey
+* **Internship:** Data Analyst Intern at **Bluestock** (2 Months)
+    * Focusing on **API development**, data processing, and web-related analytical workflows.
+    * Bridging the gap between raw data and actionable web insights.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React.js, JavaScript (ES6+), HTML5, CSS3 |
+| **Backend/APIs** | Node.js, Python, C/C++, RESTful APIs |
+| **Data Analysis** | SQL, Advanced Excel, Power BI, Data Visualization |
+| **Hardware/Embedded** | 8051 Microcontroller, ESP32, VLSI Design |
+
+---
+
+### 🌟 Key Projects
+* **[GATE Test Web Platform](link-to-repo):** A comprehensive exam preparation platform for students built with a focus on performance and UI/UX.
+* **[WishWeather](link-to-repo):** Real-time responsive weather platform showcasing React integration.
+* **[All India Villages API](link-to-repo):** A specialized backend project using Node.js and PostgreSQL to provide regional data.
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
+
+---
+
+### ⚡ Fun Facts & Community
+* 🚀 I'm looking to collaborate on Open Source projects and AI-driven web apps.
+* 👥 Proud member of **Ekta Mandal Narayanpur**.
+* 💬 Ask me about: React optimization, SQL query tuning, or building hardware-integrated web systems.
+
+📫 **How to reach me:** [Your LinkedIn Profile] | [Your Email]
 
 
 ## 🌐 Socials:
