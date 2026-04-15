@@ -28,7 +28,6 @@ I am a passionate developer and data enthusiast currently deepening my expertise
 ### 🌟 Key Projects
 * **[GATE Test Web Platform](link-to-repo):** A comprehensive exam preparation platform for students built with a focus on performance and UI/UX.
 * **[WishWeather](link-to-repo):** Real-time responsive weather platform showcasing React integration.
-* **[All India Villages API](link-to-repo):** A specialized backend project using Node.js and PostgreSQL to provide regional data.
 
 ---
 
